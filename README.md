@@ -1,6 +1,3 @@
-Here’s a README template for your TodoApp website built using React:  
-
----
 
 # TodoApp  
 
@@ -17,7 +14,7 @@ TodoApp is a simple, user-friendly, and efficient task management web applicatio
 ## Technologies Used  
 
 - **Frontend Framework:** React  
-- **Styling:** CSS/Bootstrap/Tailwind (update as applicable)  
+- **Styling:** CSS (update as applicable)  
 - **State Management:** React useState/useEffect 
 
 ## Installation  
