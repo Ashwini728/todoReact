@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    margin-top: 10%;
+    color: rgb(61, 2, 51);
+    background-color: rgba(109, 30, 67, 0.76);
+}
+.todo{
+    background-color: rgba(250, 235, 215, 0.342);
+    width: 500px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    padding-bottom: 5%;
+    padding-right: 5%;
+    padding-top: 1cm;
+}
+.bu{
+    margin-left: 8cm;
+    border: none;
+    border-radius: 0.1cm;
+    font-size: 12px;
+    color: rgb(12, 11, 11);
+}
+ul li{
+    position: relative;
+    list-style:none;
+    padding: 12px 8px 12px 50px;
+    text-align: left;
+    font-size: larger;
+    cursor: pointer;
+    color: rgb(16, 16, 17);
+    display:flex;
+    background-color: rgba(238, 215, 233, 0.247);
+    border-radius: 20cm;
+    margin-bottom: 0.2cm;
+}
+
